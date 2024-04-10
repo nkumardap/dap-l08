@@ -1,0 +1,11 @@
+Variable name: DATEOFRECORDING
+Note: The date on which the record was made. Format is <day><month><year>
+
+Variable name: GDPRAWEST
+Note: The raw - i.e. pre-check - estimation of GDP for the year in <year> as reported by the US Bureau of Economic Analysis. Figures are reported in billions
+
+Variable name: POPULATIONINMILLION
+Note: The estimate of population for <year>, as reported by the US Census Bureau. Figure is in millions
+
+Variable name: UNEMPLOYMENTRATE
+Note: the unemployment rate, as reported by the Bureau of Labor Statistics. Figure is in percentage.
